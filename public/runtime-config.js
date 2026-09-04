@@ -8,6 +8,6 @@
  * or Google service credentials in this public file.
  */
 window.POLAR_HUB_CONFIG = {
-  appsScriptUrl: "",
+  appsScriptUrl: "https://script.google.com/macros/s/AKfycbxwVjrwiWp5GTpmCiwQA9zfSBJEvojqcU2wh1pmcLdM-KCyQQWvUit_37r0cvXQJbgT/exec",
   enableSheetQuotes: true,
 };
